@@ -40,7 +40,8 @@ ul li a {
 }
 
 ul li a:hover {
-    background-color: rgb(15, 104, 126);
+    background-color: beige;
+    color: black
 }
 
 
